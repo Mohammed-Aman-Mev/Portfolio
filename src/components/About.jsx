@@ -18,7 +18,7 @@ const About = () => {
       <div className="bg-gradient-to-l from-pink-800 to-cyan-600 p-[50px] rounded-lg flex items-center justify-center h-full">
         <h2 className="sm:text-2xl">
           I create amazing web-applications with JavaScript, HTML, and CSS.
-          Tailwind CSS makes them look sleek.{" "}
+          Tailwind CSS makes them look sleek.
           <span className="text-black">React.js</span> and Redux add fun
           features, and Framer Motion brings in cool animations. Come check out
           my portfolio!
