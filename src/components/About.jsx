@@ -11,7 +11,7 @@ const About = () => {
     >
       <div className="text-3xl py-8">
         <h2 className="sm:text-6xl font-extrabold bg-gradient-to-r from-violet-700 to-blue-600 rounded-xl p-4 ">
-          Introduction
+          About
         </h2>
       </div>
 
