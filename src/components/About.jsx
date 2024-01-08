@@ -7,7 +7,7 @@ const About = () => {
       initial="hidden"
       whileInView="show"
       transition={{ duration: 1.5 }}
-      className="flex flex-col justify-center items-center bg-slate-950 w-full h-screen px-[100px]"
+      className="flex flex-col justify-center items-center bg-slate-950 w-full xl:h-screen px-[100px]"
     >
       <div className="text-3xl py-8">
         <h2 className="sm:text-6xl font-extrabold bg-gradient-to-r from-violet-700 to-blue-600 rounded-xl p-4 ">
