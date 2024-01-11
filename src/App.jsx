@@ -12,9 +12,9 @@ const App = () => {
       </div>
       <About />
       <Tech />
-      <Works />
+      {/* <Works />
       <Contact />
-      <Stars />
+      <Stars /> */}
     </BrowserRouter>
   );
 };
