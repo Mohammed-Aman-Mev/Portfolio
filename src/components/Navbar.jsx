@@ -20,7 +20,7 @@ const Navbar = () => {
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       transition={{ type: "spring", delay: 1 }}
-      className="w-screen h-auto flex items-center py-4 sticky top-0 bg-primary z-10 px-8"
+      className="w-[100%] h-auto flex items-center py-4 sticky top-0 bg-primary z-10 px-8"
     >
       <div className="flex items-center justify-between w-full px-9">
         <div className="flex gap-4">

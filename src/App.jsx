@@ -6,7 +6,7 @@ import Stars from "./components/canvas/Stars";
 const App = () => {
   return (
     <BrowserRouter>
-      <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
+      <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center w-full">
         <Navbar />
         <Hero />
       </div>

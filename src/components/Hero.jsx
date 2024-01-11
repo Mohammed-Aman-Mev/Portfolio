@@ -3,7 +3,7 @@ import { motion, spring } from "framer-motion";
 
 const Hero = () => {
   return (
-    <section className="w-full h-screen p-[50px] flex flex-col items-center justify-center">
+    <section className="w-full h-screen sm:p-[50px] flex flex-col items-center justify-center">
       <div className="flex w-full relative top-3 justify-center items-center gap-4 lg:relative lg:top-0 md:gap-[50px]">
         <div className="flex flex-col justify-center items-center">
           <div className="w-5 h-5 rounded-full bg-pink-600" />
