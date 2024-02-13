@@ -39,7 +39,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="">
-          <ul className="gap-7 hidden sm:flex">
+          {/* <ul className="gap-7 hidden sm:flex">
             {link.map((link) => (
               <li
                 key={link.index}
@@ -54,7 +54,7 @@ const Navbar = () => {
                 <a href={`#${link.id}`}>{link.title}</a>
               </li>
             ))}
-          </ul>
+          </ul> */}
           <div className="overflow-auto sm:hidden">
             <img
               src={toggle ? close : menu}

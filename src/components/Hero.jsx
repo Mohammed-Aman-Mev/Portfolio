@@ -38,7 +38,7 @@ const Hero = () => {
             transition={{ duration: 2 }}
             className="sm:text-2xl lg:text-4xl"
           >
-            I am a <span className="text-react">Frontend</span> Developer
+            I am a <span className="text-react">React.JS</span> Developer
           </motion.h3>
         </div>
       </div>
